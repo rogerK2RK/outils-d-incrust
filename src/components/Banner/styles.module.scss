@@ -1,0 +1,44 @@
+$primary-color : #FFF;
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+
+.boxe-header {
+    padding: 0% 20%;
+    height: 88px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 100;
+    background-color: #14186a;
+    // box-shadow:  9px 9px 19px #121218,
+    //          -9px -9px 19px #242630;
+    &__button {
+        height: 50px;
+    display: flex;
+    align-items: center;
+    border-radius: 15px;
+    justify-content: space-around;
+    padding-right: 20px;
+    background-color: #FFF;
+    text-decoration: none;
+    color: #121218;
+    box-shadow:  8px 8px 16px #0c0f41,
+             -8px -8px 16px #1c2193;
+    &:hover {
+        background: linear-gradient(145deg, #e6e6e6, #ffffff);
+        box-shadow: inset 5px 5px 10px #9c9c9c,
+            inset -5px -5px 10px #ffffff;
+    }
+    }
+}
+
+// button{
+//     display: flex;
+//     justify-content: center;
+//     align-items: center;
+// }
+
+.image-support {
+    height: 40px;
+    width: 70px;
+    object-fit: contain;
+}

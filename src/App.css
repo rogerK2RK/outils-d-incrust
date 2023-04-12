@@ -1,0 +1,29 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+  font-style: normal;
+}
+
+.App {
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  padding: 0px;
+}
+/* 
+.mouse--follower {
+  background-color:  hwb(0 100% 0% / 0.05);
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  position: absolute;
+  z-index: 1000;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50, -50%);
+  transition: ease-in-out;
+  box-shadow:  3px 3px 6px #212228,
+             -3px -3px 6px #2d2e36;
+} */
+

@@ -1,0 +1,3698 @@
+{
+  "supports": [
+    {
+      "name" : "charli",
+      "templates": [
+        {
+          "properties": {
+            "support": "charli",
+            "size": 3,
+            "zoom": true,
+            "activation": true
+          },
+          "id": 1,
+          "twoVideos": true,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/charli/01.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/charli/template_charli_01_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "charli",
+            "size": 3,
+            "zoom": true,
+            "activation": true
+          },
+          "id": 2,
+          "twoVideos": true,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": true,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/charli/02.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/charli/template_charli_01_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "charli",
+            "size": 3,
+            "zoom": true,
+            "activation": true
+          },
+          "id": 3,
+          "twoVideos": true,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/charli/03.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/charli/template_charli_01_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "charli",
+            "size": 3,
+            "zoom": true,
+            "activation": true
+          },
+          "id": 4,
+          "twoVideos": true,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": true,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/charli/04.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/charli/template_charli_01_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "charli",
+            "size": 3,
+            "zoom": true,
+            "activation": true
+          },
+          "id": 5,
+          "twoVideos": true,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/charli/05.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/charli/template_charli_01_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "charli",
+            "size": 3,
+            "zoom": true,
+            "activation": true
+          },
+          "id": 6,
+          "twoVideos": true,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/charli/06.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/charli/template_charli_01_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "charli",
+            "size": 3,
+            "zoom": true,
+            "activation": true
+          },
+          "id": 7,
+          "twoVideos": false,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/charli/07.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/charli/template_charli_01_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "charli",
+            "size": 3,
+            "zoom": true,
+            "activation": false
+          },
+          "id": 8,
+          "twoVideos": true,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/charli/08.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/charli/template_charli_08_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "charli",
+            "size": 3,
+            "zoom": true,
+            "activation": false
+          },
+          "id": 9,
+          "twoVideos": false,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/charli/09.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/charli/template_charli_09_CC23.aep"
+        }
+      ]
+    },
+    {
+      "name" : "bubbles",
+      "templates": [
+        {
+          "properties": {
+            "support": "bubbles",
+            "size": 3,
+            "zoom": true,
+            "activation": false
+          },
+          "id": 1,
+          "twoVideos": true,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/bubbles/01.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/bubbles/template_bubbles_01_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "bubbles",
+            "size": 3,
+            "zoom": true,
+            "activation": false
+          },
+          "id": 2,
+          "twoVideos": true,
+          "print": true,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/bubbles/02.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/bubbles/template_bubbles_02_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "bubbles",
+            "size": 3,
+            "zoom": true,
+            "activation": true
+          },
+          "id": 3,
+          "twoVideos": false,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/bubbles/03.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/bubbles/template_bubbles_01_CC23.aep"
+          
+        },
+        {
+          "properties": {
+            "support": "bubbles",
+            "size": 3,
+            "zoom": true,
+            "activation": true
+          },
+          "id": 4,
+          "twoVideos": true,
+          "print": true,
+          "mouvement": true,
+          "peopleMoveBG": true,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/bubbles/04.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/bubbles/template_bubbles_01_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "bubbles",
+            "size": 3,
+            "zoom": true,
+            "activation": true
+          },
+          "id": 5,
+          "twoVideos": false,
+          "print": true,
+          "mouvement": true,
+          "peopleMoveBG": true,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/bubbles/05.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/bubbles/template_bubbles_01_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "bubbles",
+            "size": 3,
+            "zoom": true,
+            "activation": false
+          },
+          "id": 6,
+          "twoVideos": false,
+          "print": true,
+          "mouvement": true,
+          "peopleMoveBG": true,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/bubbles/06.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/bubbles/template_bubbles_06_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "bubbles",
+            "size": 3,
+            "zoom": true,
+            "activation": false
+          },
+          "id": 7,
+          "twoVideos": false,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/bubbles/07.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/bubbles/template_bubbles_07_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "bubbles",
+            "size": 3,
+            "zoom": true,
+            "activation": false
+          },
+          "id": 8,
+          "twoVideos": false,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/bubbles/08.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/bubbles/template_bubbles_08_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "bubbles",
+            "size": 3,
+            "zoom": true,
+            "activation": false
+          },
+          "id": 9,
+          "twoVideos": false,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/bubbles/09.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/bubbles/template_bubbles_09_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "bubbles",
+            "size": 3,
+            "zoom": true,
+            "activation": false
+          },
+          "id": 10,
+          "twoVideos": false,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/bubbles/10.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/bubbles/template_bubbles_10_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "bubbles",
+            "size": 3,
+            "zoom": true,
+            "activation": false
+          },
+          "id": 11,
+          "twoVideos": false,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/bubbles/11.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/bubbles/template_bubbles_11_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "bubbles",
+            "size": 3,
+            "zoom": true,
+            "activation": false
+          },
+          "id": 12,
+          "twoVideos": false,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/bubbles/12.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/bubbles/template_bubbles_12_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "bubbles",
+            "size": 3,
+            "zoom": true,
+            "activation": false
+          },
+          "id": 13,
+          "twoVideos": false,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/bubbles/13.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/bubbles/template_bubbles_13_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "bubbles",
+            "size": 3,
+            "zoom": true,
+            "activation": false
+          },
+          "id": 14,
+          "twoVideos": false,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/bubbles/14.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/bubbles/template_bubbles_14_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "bubbles",
+            "size": 3,
+            "zoom": true,
+            "activation": false
+          },
+          "id": 15,
+          "twoVideos": false,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": false,
+          "aspectRatio": "9x16",
+          "thumbnailUrl": "assets/img/templates_cover/bubbles/15.jpg",
+          "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/bubbles/template_bubbles_15_CC23.aep"
+        }
+      ]
+    },
+    {
+      "support" : "digicab",
+      "templates": [
+        {
+          "id" : 1,
+          "properties": {
+            "personnes": 2,
+            "thumbnailUrl": "assets/img/templates_cover/digicab/01.jpg",
+            "activation": true
+          },
+          "template":{
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/charli/template_charli_01_CC23.aep",
+            "properties": {
+              "size": 3,
+              "twoVideos": true,
+              "print": false,
+              "zoom": true,
+              "mouvement": true,
+              "peopleMoveBG": false,
+              "cameraActiveDigicab": false,
+              "scanTelephone": true,
+              "aspectRatio": "9x16"
+            }
+          }
+        },
+        {
+          "properties": {
+            "support": "digicab",
+            "size": 3,
+            "zoom": true,
+            "activation": true
+          },
+            "id": 2,
+            "twoVideos": false,
+            "print": false,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/02.jpg",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_02_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "digicab",
+            "size": 3,
+            "zoom": true,
+            "activation": true
+          },
+          "id": 3,
+          "twoVideos": true,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": true,
+          "aspectRatio": "16x9",
+          "thumbnailUrl": "assets/img/templates_cover/digicab/03.jpg",
+          "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_03_CC23.aep"
+        },
+        {
+          "properties": {
+            "support": "digicab",
+            "size": 3,
+            "zoom": true,
+            "activation": true
+          },
+          "id": 4,
+          "twoVideos": false,
+          "print": false,
+          "mouvement": true,
+          "peopleMoveBG": false,
+          "cameraActiveDigicab": true,
+          "aspectRatio": "16x9",
+          "thumbnailUrl": "assets/img/templates_cover/digicab/04.jpg",
+          "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_04_CC23.aep"
+        },
+        {
+          "properties": {
+            "id": 5,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/05.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_05_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 6,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/06.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_06_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 7,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/07.jpg",
+            "activation": true
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_07_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 8,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/08.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_08_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 9,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/09.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "scanTelephone": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_09_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 10,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/10.jpg",
+            "activation": true
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_10_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 11,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/11.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_11_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id":12,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/12.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_12_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id":13,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/13.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_13_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id":14,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/14.jpg",
+            "activation": true
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_14_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 15,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/15.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_15_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id":16,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/16.jpg",
+            "activation": true
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_16_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 17,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/17.jpg",
+            "activation": true
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_17_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 18,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/18.jpg",
+            "activation": true
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_18_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 19,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/19.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_19_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 20,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/20.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_20_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 21,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/21.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_21_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 22,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/22.jpg",
+            "activation": true
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_22_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 23,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/23.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_23_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 24,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/24.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_24_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 25,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/25.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_25_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 26,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/26.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_26_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 27,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/27.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_27_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 28,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/28.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_28_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 29,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/29.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_29_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 30,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/30.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_30_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 31,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/31.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_31_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 32,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/32.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_32_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 33,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/33.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_33_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 34,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/34.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_34_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 35,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/35.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_35_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 36,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/36.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_36_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 37,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/37.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_37_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 38,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/38.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_38_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 39,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/39.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_39_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 40,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/40.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_40_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 41,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/41.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_41_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 42,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/42.jpg",
+              "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_42_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 43,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/43.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_43_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 44,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/44.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_44_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 45,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/45.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_45_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 46,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/46.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_46_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 47,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/47.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_47_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 48,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/48.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_48_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 49,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/49.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_49_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 50,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/50.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_50_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 51,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/51.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_51_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 52,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/52.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_52_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 53,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/53.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_53_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 54,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/54.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_54_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 55,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/55.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_55_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 56,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/56.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_56_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 57,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/57.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_57_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 58,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/58.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_58_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 59,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/59.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_59_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 60,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/60.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_60_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 61,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/61.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_61_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 62,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/62.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_62_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 63,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/63.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_63_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 64,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/64.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_64_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 65,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/65.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_65_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 66,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/66.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_66_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 67,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/67.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_67_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 68,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/68.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_68_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 69,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/69.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_69_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 70,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/70.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_70_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 71,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/71.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_71_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 72,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/72.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_72_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 73,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/73.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_73_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 74,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/74.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_74_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 75,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/75.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_75_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 76,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/76.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_76_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 77,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/77.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_77_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 78,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/78.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_78_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 79,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/79.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_79_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 80,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/80.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_80_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 81,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/81.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_81_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 82,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/82.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_82_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 83,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/83.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_83_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 84,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/84.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_84_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 85,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/85.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_85_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 86,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/86.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_86_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 87,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/87.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_87_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 88,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/88.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_88_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 89,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/89.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_89_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 90,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/90.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_90_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 91,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/91.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_91_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 92,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/92.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_92_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 93,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/93.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_93_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 94,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/94.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "scanTelephone": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_94_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 95,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/95.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "scanTelephone": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_95_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 96,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/96.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "scanTelephone": true,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_96_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 97,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/97.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_97_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 98,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/98.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_98_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 99,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/99.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "scanTelephone": true,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_99_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 100,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/100.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "scanTelephone": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_100_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 101,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/101.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_101_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 102,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/102.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_102_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 103,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/103.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_103_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 104,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/104.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_104_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 105,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/105.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "scanTelephone": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_105_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 106,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/106.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "scanTelephone": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_106_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 107,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/107.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "scanTelephone": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_107_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 108,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/108.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "scanTelephone": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_108_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 109,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/109.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "scanTelephone": true,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_109_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 110,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/110.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_110_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 111,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/111.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "scanTelephone": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_111_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 112,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/112.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_112_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 113,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/113.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "scanTelephone": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_113_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 114,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/114.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "scanTelephone": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_114_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 115,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/115.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_115_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 116,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/116.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "scanTelephone": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_116_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 117,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/117.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "scanTelephone": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_117_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 118,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/118.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "scanTelephone": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_118_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 119,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/119.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "scanTelephone": true,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_119_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 120,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/120.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_120_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 121,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/121.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_121_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 122,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/122.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_122_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 123,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/123.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "scanTelephone": true,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_123_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 124,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/124.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_124_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 125,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/125.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_125_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 126,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/126.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_126_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 127,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/127.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "scanTelephone": true,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_127_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 128,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/128.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "scanTelephone": true,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_128_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 129,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/129.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "scanTelephone": true,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_129_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 130,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/130.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_130_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 131,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/131.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_131_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 132,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/132.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_132_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 133,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/133.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_133_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 134,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/134.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_134_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 135,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/135.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_135_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 136,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/136.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_136_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 137,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/137.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "scanTelephone": true,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_137_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 138,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/138.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "scanTelephone": true,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_138_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 139,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/139.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "scanTelephone": true,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_139_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 140,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/140.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "scanTelephone": true,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_140_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 141,
+            "support": "digicab",
+            "thumbnailUrl": "assets/img/templates_cover/digicab/141.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "scanTelephone": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///C:/laragon/www/INCRUST_MAKER_01/TEMPLATES/XX_INCRUSTATION_TEMPLATE/digicab/template_digicab_141_CC23.aep"
+          }
+        }
+      ]
+    },
+    {
+      "name" : "isafe",
+      "templates": [
+        {
+          "properties": {
+            "id": 1,
+            "support": "isafe",
+            "thumbnailUrl": "assets/img/templates_cover/isafe/01.jpg",
+            "activation": true
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": true,
+            "cameraActiveDigicab": false,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/isafe/template_isafe_01_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 2,
+            "support": "isafe",
+            "thumbnailUrl": "assets/img/templates_cover/isafe/02.jpg",
+            "activation": true
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": false,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/isafe/template_isafe_01_CC23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 3,
+            "support": "isafe",
+            "thumbnailUrl": "assets/img/templates_cover/isafe/03.jpg",
+            "activation": true
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": false,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": false,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/isafe/template_isafe_01_CC23.aep"
+          }
+        }
+      ]
+    },
+    {
+      "name" : "digibag",
+      "templates": [
+        {
+          "properties": {
+            "id": 1,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/01.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_01.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 2,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/02.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_02.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 3,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/03.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_03.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 4,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/04.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_04.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 5,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/05.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_05.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 6,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/06.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_06.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 7,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/07.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_07.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 8,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/08.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_08.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 9,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/09.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_09.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 10,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/10.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_10.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 11,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/11.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_11.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 12,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/12.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_12.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 13,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/13.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_13.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 14,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/14.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_14.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 15,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/15.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_15.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 16,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/16.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_16.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 17,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/17.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_17.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 18,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/18.jpg",
+            "activation": true
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_18.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 19,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/19.jpg",
+            "activation": true
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_19.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 20,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/20.jpg",
+            "activation": true
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_20.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 21,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/21.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_21.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 22,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/22.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_22.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 23,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/23.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_23.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 24,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/24.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_24.aep"
+          }
+        },
+        {
+          "properties": {
+            "id": 25,
+            "support": "digibag",
+            "thumbnailUrl": "assets/img/templates_cover/digibag/25.jpg",
+            "activation": false
+          },
+          "template": {
+            "size": 3,
+            "twoVideos": true,
+            "print": false,
+            "zoom": true,
+            "mouvement": true,
+            "peopleMoveBG": false,
+            "cameraActiveDigicab": true,
+            "aspectRatio": "16x9",
+            "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/digibag/template_digibag_25.aep"
+          }
+        }
+      ]
+    }
+  ]
+}
+

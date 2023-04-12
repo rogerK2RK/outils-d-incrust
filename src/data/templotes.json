@@ -1,0 +1,82 @@
+{
+    "supports" : [
+        {
+            "name" : "charli",
+            "templates" : [
+                {
+                    "id": 1,
+                    "size": 3,
+                    "twoVideos": true,
+                    "print": false,
+                    "zoom": true,
+                    "mouvement": true,
+                    "peopleMoveBG": false,
+                    "cameraActiveDigicab": false,
+                    "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/charli/template_charli_01_CC23.aep",
+                    "properties": {
+                        "support": "charli",
+                        "aspectRatio": "9x16",
+                        "thumbnailUrl": "assets/img/templates_cover/charli/01.jpg",
+                        "activation": true
+                    }
+                },
+                {
+                    "id": 2,
+                    "size": 3,
+                    "twoVideos": true,
+                    "print": false,
+                    "zoom": true,
+                    "mouvement": true,
+                    "peopleMoveBG": true,
+                    "cameraActiveDigicab": false,
+                    "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/charli/template_charli_01_CC23.aep",
+                    "properties": {
+                        "support": "charli",
+                        "aspectRatio": "9x16",
+                        "thumbnailUrl": "assets/img/templates_cover/charli/02.jpg",
+                        "activation": true
+                    }
+                }
+            ]
+        },
+        {
+            "name" : "bubbles",
+            "templates" : [
+                {
+                    "id": 1,
+                    "size": 3,
+                    "twoVideos": true,
+                    "print": false,
+                    "zoom": true,
+                    "mouvement": true,
+                    "peopleMoveBG": false,
+                    "cameraActiveDigicab": false,
+                    "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/bubbles/template_bubbles_01_CC23.aep",
+                    "properties": {
+                        "support": "bubbles",
+                        "aspectRatio": "9x16",
+                        "thumbnailUrl": "assets/img/templates_cover/bubbles/01.jpg",
+                        "activation": false
+                    }
+                },
+                {
+                    "id": 2, 
+                    "size": 3,
+                    "twoVideos": true,
+                    "print": true,
+                    "zoom": true,
+                    "mouvement": true,
+                    "peopleMoveBG": false,
+                    "cameraActiveDigicab": false,
+                    "lienAEP": "file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/bubbles/template_bubbles_02_CC23.aep",
+                    "properties": {
+                        "support": "bubbles",
+                        "aspectRatio": "9x16",
+                        "thumbnailUrl": "assets/img/templates_cover/bubbles/02.jpg",
+                        "activation": false
+                    }
+                }
+            ]
+        }
+    ]
+}
