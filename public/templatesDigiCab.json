@@ -1,0 +1,499 @@
+
+[
+  {
+      "id":1, 
+      "attributes":{ 
+           "isNew": true, 
+           "created": "2015-05-22T14:56:29.000Z", 
+           "updated": "2015-05-22T14:56:28.000Z", 
+           "format": "img", 
+           "posterUrl": "/assets/img/poster/digicab/01.jpg", 
+           "previewUrl": "assets/img/preview/digicab/01.mp4", 
+           "activation": true, 
+           "likesCount": 0 
+      },
+      "properties":{ 
+           "export": {
+               "availableSizes":{
+                   "0" :{
+                    "text": "16x9 - horizontal", 
+                    "value": "16x9"
+                   },
+                   "1" :{
+                    "text": "1x1 - carré", 
+                    "value": "1x1"
+                   }, 
+                   "2" :{
+                    "text": "9x16 - vertical", 
+                    "value": "9x16"
+                   } 
+               }, 
+               "videoUploadAspectRatio": "16:9" 
+           },
+           "people":{ 
+               "totalNumberOfPeople": 2, 
+               "model": {
+                   "0" : {
+                       "id": 12, 
+                       "attributes":{ 
+                           "name": "Michel", 
+                           "age": "18-25 ans", 
+                           "gender": "masculine" 
+                       },
+                       "phone": {
+                           "havePhone": true, 
+                           "action": "charging" 
+                       },
+                       "isModelVisible": true, 
+                       "comment": "Le modèle porte une doudoune voyante" 
+                   },
+                   "1":
+                   {
+                       "id": 4, 
+                       "attributes":{ 
+                           "name": "Micheline", 
+                           "age": "18-25 ans", 
+                           "gender": "feminine"
+                       },
+                       "phone": {
+                           "havePhone": false,
+                           "action": "none" 
+                       },
+                       "isModelVisible": true, 
+                       "comment": "Le modèle a une montre Rolex"
+                   }
+               },
+               "driver": {
+                   "id": 1,
+                   "attributes":{
+                       "name": "Michel", 
+                       "age": "25-35 ans", 
+                       "gender": "masculine" 
+                   },
+                   "isDriverVisible": true, 
+                   "isDriving": true,
+                   "comment": "Le chauffeur porte une doudoune voyante et un écouteur"
+               }
+           },
+           "car": { 
+               "category": "Berline", 
+               "brand": "Mercedes",
+               "model": "Classe E",
+               "plate": "AA-213-AA" 
+           },         
+           "shooting": { 
+               "adress": "11 rue de Lourmel", 
+               "city": "Paris", 
+               "postalCode": "75015", 
+               "country": "France", 
+               "remarkablePlaces": { 
+                   "0" : "Aéroport",
+                   "1" : "Roissy Charles de Gaulle"
+               },
+               "name": "Mastercard", 
+               "quality": "CSP+", 
+               "folderLink": "https://drive.google.com/hdsfhksdf" 
+           }
+      },
+      "template":{ 
+           "lienAEPFile":"file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/charli/template_charli_01_CC23.aep"
+      }
+  },
+  {
+    "id":2, 
+    "attributes":{ 
+         "isNew": true, 
+         "created": "2015-05-22T14:56:29.000Z", 
+         "updated": "2015-05-22T14:56:28.000Z", 
+         "format": "img", 
+         "posterUrl": "assets/img/poster/digicab/02.jpg", 
+         "previewUrl": "assets/img/preview/digicab/01.mp4", 
+         "activation": true, 
+         "likesCount": 0 
+    },
+    "properties":{ 
+         "export": {
+             "availableSizes":{
+              "0" :{
+                "text": "16x9 - horizontal", 
+                "value": "16x9"
+               },
+               "1" :{
+                "text": "1x1 - carré", 
+                "value": "1x1"
+               }, 
+               "2" :{
+                "text": "9x16 - vertical", 
+                "value": "9x16"
+               }
+             }, 
+             "videoUploadAspectRatio": "16:9" 
+         },
+         "people":{ 
+             "totalNumberOfPeople": 2, 
+             "model": {
+                 "0" : {
+                     "id": 12, 
+                     "attributes":{ 
+                         "name": "Michel", 
+                         "age": "18-25 ans", 
+                         "gender": "masculine" 
+                     },
+                     "phone": {
+                         "havePhone": true, 
+                         "action": "charging" 
+                     },
+                     "isModelVisible": true, 
+                     "comment": "Le modèle porte une doudoune voyante" 
+                 },
+                 "1":
+                 {
+                     "id": 4, 
+                     "attributes":{ 
+                         "name": "Micheline", 
+                         "age": "18-25 ans", 
+                         "gender": "feminine"
+                     },
+                     "phone": {
+                         "havePhone": false,
+                         "action": "none" 
+                     },
+                     "isModelVisible": true, 
+                     "comment": "Le modèle a une montre Rolex"
+                 }
+             },
+             "driver": {
+                 "id": 1,
+                 "attributes":{
+                     "name": "Michel", 
+                     "age": "25-35 ans", 
+                     "gender": "masculine" 
+                 },
+                 "isDriverVisible": true, 
+                 "isDriving": true,
+                 "comment": "Le chauffeur porte une doudoune voyante et un écouteur"
+             }
+         },
+         "car": { 
+             "category": "Berline", 
+             "brand": "Mercedes",
+             "model": "Classe E",
+             "plate": "AA-213-AA" 
+         },         
+         "shooting": { 
+             "adress": "11 rue de Lourmel", 
+             "city": "Paris", 
+             "postalCode": "75015", 
+             "country": "France", 
+             "remarkablePlaces": { 
+                 "0" : "Aéroport",
+                 "1" : "Roissy Charles de Gaulle"
+             },
+             "name": "Mastercard", 
+             "quality": "CSP+", 
+             "folderLink": "https://drive.google.com/hdsfhksdf" 
+         }
+    },
+    "template":{ 
+         "lienAEPFile":"file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/charli/template_charli_01_CC23.aep"
+    }
+  },
+  {
+    "id":3, 
+    "attributes":{ 
+         "isNew": true, 
+         "created": "2015-05-22T14:56:29.000Z", 
+         "updated": "2015-05-22T14:56:28.000Z", 
+         "format": "img", 
+         "posterUrl": "assets/img/poster/digicab/03.jpg", 
+         "previewUrl": "assets/img/preview/digicab/01.mp4", 
+         "activation": true, 
+         "likesCount": 0 
+    },
+    "properties":{ 
+         "export": {
+             "availableSizes":{
+              "0" :{
+                "text": "16x9 - horizontal", 
+                "value": "16x9"
+              },
+              "1" :{
+                "text": "1x1 - carré", 
+                "value": "1x1"
+              }, 
+              "2" :{
+                "text": "9x16 - vertical", 
+                "value": "9x16"
+              }
+             }, 
+             "videoUploadAspectRatio": "16:9" 
+         },
+         "people":{ 
+             "totalNumberOfPeople": 2, 
+             "model": {
+                 "0" : {
+                     "id": 12, 
+                     "attributes":{ 
+                         "name": "Michel", 
+                         "age": "18-25 ans", 
+                         "gender": "masculine" 
+                     },
+                     "phone": {
+                         "havePhone": true, 
+                         "action": "charging" 
+                     },
+                     "isModelVisible": true, 
+                     "comment": "Le modèle porte une doudoune voyante" 
+                 },
+                 "1":
+                 {
+                     "id": 4, 
+                     "attributes":{ 
+                         "name": "Micheline", 
+                         "age": "18-25 ans", 
+                         "gender": "feminine"
+                     },
+                     "phone": {
+                         "havePhone": false,
+                         "action": "none" 
+                     },
+                     "isModelVisible": true, 
+                     "comment": "Le modèle a une montre Rolex"
+                 }
+             },
+             "driver": {
+                 "id": 1,
+                 "attributes":{
+                     "name": "Michel", 
+                     "age": "25-35 ans", 
+                     "gender": "masculine" 
+                 },
+                 "isDriverVisible": true, 
+                 "isDriving": true,
+                 "comment": "Le chauffeur porte une doudoune voyante et un écouteur"
+             }
+         },
+         "car": { 
+             "category": "Berline", 
+             "brand": "Mercedes",
+             "model": "Classe E",
+             "plate": "AA-213-AA" 
+         },         
+         "shooting": { 
+             "adress": "11 rue de Lourmel", 
+             "city": "Paris", 
+             "postalCode": "75015", 
+             "country": "France", 
+             "remarkablePlaces": { 
+                 "0" : "Aéroport",
+                 "1" : "Roissy Charles de Gaulle"
+             },
+             "name": "Mastercard", 
+             "quality": "CSP+", 
+             "folderLink": "https://drive.google.com/hdsfhksdf" 
+         }
+    },
+    "template":{ 
+         "lienAEPFile":"file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/charli/template_charli_01_CC23.aep"
+    }
+  },
+  {
+    "id":4, 
+    "attributes":{ 
+         "isNew": true, 
+         "created": "2015-05-22T14:56:29.000Z", 
+         "updated": "2015-05-22T14:56:28.000Z", 
+         "format": "img", 
+         "posterUrl": "assets/img/poster/digicab/04.jpg", 
+         "previewUrl": "assets/img/preview/digicab/01.mp4", 
+         "activation": true, 
+         "likesCount": 0 
+    },
+    "properties":{ 
+         "export": {
+             "availableSizes":{
+              "0" :{
+                "text": "16x9 - horizontal", 
+                "value": "16x9"
+              },
+              "1" :{
+                "text": "1x1 - carré", 
+                "value": "1x1"
+              }, 
+              "2" :{
+                "text": "9x16 - vertical", 
+                "value": "9x16"
+              }
+             }, 
+             "videoUploadAspectRatio": "16:9" 
+         },
+         "people":{ 
+             "totalNumberOfPeople": 2, 
+             "model": {
+                 "0" : {
+                     "id": 12, 
+                     "attributes":{ 
+                         "name": "Michel", 
+                         "age": "18-25 ans", 
+                         "gender": "masculine" 
+                     },
+                     "phone": {
+                         "havePhone": true, 
+                         "action": "charging" 
+                     },
+                     "isModelVisible": true, 
+                     "comment": "Le modèle porte une doudoune voyante" 
+                 },
+                 "1":
+                 {
+                     "id": 4, 
+                     "attributes":{ 
+                         "name": "Micheline", 
+                         "age": "18-25 ans", 
+                         "gender": "feminine"
+                     },
+                     "phone": {
+                         "havePhone": false,
+                         "action": "none" 
+                     },
+                     "isModelVisible": true, 
+                     "comment": "Le modèle a une montre Rolex"
+                 }
+             },
+             "driver": {
+                 "id": 1,
+                 "attributes":{
+                     "name": "Michel", 
+                     "age": "25-35 ans", 
+                     "gender": "masculine" 
+                 },
+                 "isDriverVisible": true, 
+                 "isDriving": true,
+                 "comment": "Le chauffeur porte une doudoune voyante et un écouteur"
+             }
+         },
+         "car": { 
+             "category": "Berline", 
+             "brand": "Mercedes",
+             "model": "Classe E",
+             "plate": "AA-213-AA" 
+         },         
+         "shooting": { 
+             "adress": "11 rue de Lourmel", 
+             "city": "Paris", 
+             "postalCode": "75015", 
+             "country": "France", 
+             "remarkablePlaces": { 
+                 "0" : "Aéroport",
+                 "1" : "Roissy Charles de Gaulle"
+             },
+             "name": "Mastercard", 
+             "quality": "CSP+", 
+             "folderLink": "https://drive.google.com/hdsfhksdf" 
+         }
+    },
+    "template":{ 
+         "lienAEPFile":"file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/charli/template_charli_01_CC23.aep"
+    }
+  },
+  {
+    "id":5, 
+    "attributes":{ 
+         "isNew": true, 
+         "created": "2015-05-22T14:56:29.000Z", 
+         "updated": "2015-05-22T14:56:28.000Z", 
+         "format": "img", 
+         "posterUrl": "assets/img/poster/digicab/05.jpg", 
+         "previewUrl": "assets/img/preview/digicab/01.mp4", 
+         "activation": true, 
+         "likesCount": 0 
+    },
+    "properties":{ 
+         "export": {
+             "availableSizes":{
+              "0" :{
+                "text": "16x9 - horizontal", 
+                "value": "16x9"
+              },
+              "1" :{
+                "text": "1x1 - carré", 
+                "value": "1x1"
+              }, 
+              "2" :{
+                "text": "9x16 - vertical", 
+                "value": "9x16"
+              }
+             }, 
+             "videoUploadAspectRatio": "16:9" 
+         },
+         "people":{ 
+             "totalNumberOfPeople": 2, 
+             "model": {
+                 "0" : {
+                     "id": 12, 
+                     "attributes":{ 
+                         "name": "Michel", 
+                         "age": "18-25 ans", 
+                         "gender": "masculine" 
+                     },
+                     "phone": {
+                         "havePhone": true, 
+                         "action": "charging" 
+                     },
+                     "isModelVisible": true, 
+                     "comment": "Le modèle porte une doudoune voyante" 
+                 },
+                 "1":
+                 {
+                     "id": 4, 
+                     "attributes":{ 
+                         "name": "Micheline", 
+                         "age": "18-25 ans", 
+                         "gender": "feminine"
+                     },
+                     "phone": {
+                         "havePhone": false,
+                         "action": "none" 
+                     },
+                     "isModelVisible": true, 
+                     "comment": "Le modèle a une montre Rolex"
+                 }
+             },
+             "driver": {
+                 "id": 1,
+                 "attributes":{
+                     "name": "Michel", 
+                     "age": "25-35 ans", 
+                     "gender": "masculine" 
+                 },
+                 "isDriverVisible": true, 
+                 "isDriving": true,
+                 "comment": "Le chauffeur porte une doudoune voyante et un écouteur"
+             }
+         },
+         "car": { 
+             "category": "Berline", 
+             "brand": "Mercedes",
+             "model": "Classe E",
+             "plate": "AA-213-AA" 
+         },         
+         "shooting": { 
+             "adress": "11 rue de Lourmel", 
+             "city": "Paris", 
+             "postalCode": "75015", 
+             "country": "France", 
+             "remarkablePlaces": { 
+                 "0" : "Aéroport",
+                 "1" : "Roissy Charles de Gaulle"
+             },
+             "name": "Mastercard", 
+             "quality": "CSP+", 
+             "folderLink": "https://drive.google.com/hdsfhksdf" 
+         }
+    },
+    "template":{ 
+         "lienAEPFile":"file:///D:/04_CODE/INCRUST_MAKER_01/TEMPLATES/Templates_AE/charli/template_charli_01_CC23.aep"
+    }
+  }
+]
+

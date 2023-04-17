@@ -12,8 +12,9 @@ function callApi(url){
  callApi()
 
 
-export function getAverageTemplates(){
-    return callApi(`../../data/templates.json`).then((data)=>{
-        return data;
-    })
+export async function getAverageTemplatesDigicab(){
+    let reponse = await fetch("/templatesDigiCab.json");
+    let dataTemplates = await reponse.json();
+
+    return dataTemplates;
 }
