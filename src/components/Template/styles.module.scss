@@ -1,5 +1,5 @@
 .boxe-globale {
-    width: 60%;
+    width: 80%;
     height: 91vh;
     padding: 30px 20px 20px 20px;
 }
@@ -33,17 +33,30 @@
 
 .box-template {
     background-color: #FFF;
-    height: 350px;
+    height: 230px;
     border: 1px solid #14186a;
     border-radius: 15px;
     width: 30%;
     cursor: pointer;
     margin-bottom: 30px;
+    position: relative;
+    text-decoration: none;
+    color: #14186a;
     &__image {
         height: 180px;
         width: 100%;
+        object-fit: cover;
         background-color: gray;
         border-radius: 15px 15px 0px 0px;
+    }
+    &__tag-news {
+        position: absolute;
+        z-index: 10;
+        top: 10px;
+        left: 10px;
+        background: #FFF;
+        border-radius: 5px;
+        padding: 2px 5px;
     }
     &__contente {
         padding: 10px;
@@ -56,4 +69,18 @@
             }
         }
     }
+}
+
+.boxe-navigation {
+    height: 91vh;
+    width: 20%;
+    background-color: #c8c8e1;
+    // display: flex;
+    padding: 30px;
+    flex-wrap: wrap;
+}
+
+.box-parent {
+    display: flex;
+    width: 100%;
 }

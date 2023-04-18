@@ -1,8 +1,8 @@
 import React, { useEffect, useState }  from 'react';
-import Nav from '../../components/Navigation';
+// import Nav from '../../components/Navigation';
 import styles from './styles.module.scss';
 import Template from '../../components/Template';
-import Derouler from '../../components/Derouler';
+// import Derouler from '../../components/Derouler';
 import digibag from "../../assets/icones/icon-digibag.svg";
 import digicab from "../../assets/icones/icon-digicab-min.svg";
 import charli from "../../assets/icones/icon-charli-hover-min.svg";
@@ -68,9 +68,9 @@ function Home() {
         </button>
       </header>
       <div className={styles["boxe-content-main"]}>
-        <Nav/>
+        {/* <Nav/> */}
         {isLoading ? <div>Loading...</div> : <Template templates={templates} />}
-        <Derouler/>
+        {/* <Derouler/> */}
       </div>
     </div>
   );
