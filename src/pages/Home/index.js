@@ -1,7 +1,7 @@
-import React, { useEffect, useState }  from 'react';
+import React, { useState }  from 'react';
 // import Nav from '../../components/Navigation';
 import styles from './styles.module.scss';
-import Template from '../../components/Template';
+import Template from '../Template/index';
 // import Derouler from '../../components/Derouler';
 import digibag from "../../assets/icones/icon-digibag.svg";
 import digicab from "../../assets/icones/icon-digicab-min.svg";
@@ -23,7 +23,7 @@ function Home() {
       setTemplates(templates)
       setIsLoading(false);
     }).catch(()=>{setError("Opps! Impossible de charger les donnés")});
-    console.log("hello ");
+    // console.log("hello ");
   };
 
   // console.log(templates);
