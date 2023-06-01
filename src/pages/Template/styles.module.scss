@@ -84,3 +84,36 @@
     display: flex;
     width: 100%;
 }
+
+/*TAG*/
+
+#tags-box-glb {
+    margin-bottom: 30px;
+}
+
+.tag-car, .tag-city{
+    border: 2px solid #14186A;
+    width: fit-content;
+    padding: 3px 10px;
+    border-radius: 28px;
+    background-color: #14186A;
+    color: #FFF;
+}
+
+.close-icon {
+ background-color: #c8c8e1;
+ padding: 1px 5px;
+ border-radius: 20px;
+ margin: 0px 0px 0px 5px;
+ cursor: pointer;
+}
+
+button {
+    cursor: pointer;
+}
+
+.bx-fltr-tbn {
+    display: flex;
+    // justify-content: space-around;
+    flex-wrap: wrap;
+}

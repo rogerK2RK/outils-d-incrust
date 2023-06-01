@@ -83,7 +83,7 @@
            },         
            "shooting": { 
                "adress": "11 rue de Lourmel", 
-               "city": "Paris", 
+               "city": "Lyon", 
                "postalCode": "75015", 
                "country": "France", 
                "remarkablePlaces": { 
@@ -121,10 +121,6 @@
                "1" :{
                 "text": "1x1 - carré", 
                 "value": "1x1"
-               }, 
-               "2" :{
-                "text": "9x16 - vertical", 
-                "value": "9x16"
                }
              }, 
              "videoUploadAspectRatio": "16:9" 
@@ -146,8 +142,7 @@
                      "isModelVisible": true, 
                      "comment": "Le modèle porte une doudoune voyante" 
                  },
-                 "1":
-                 {
+                 "1": {
                      "id": 4, 
                      "attributes":{ 
                          "name": "Micheline", 
@@ -380,7 +375,7 @@
          },         
          "shooting": { 
              "adress": "11 rue de Lourmel", 
-             "city": "Paris", 
+             "city": "Rennes", 
              "postalCode": "75015", 
              "country": "France", 
              "remarkablePlaces": { 
@@ -479,7 +474,7 @@
          },         
          "shooting": { 
              "adress": "11 rue de Lourmel", 
-             "city": "Paris", 
+             "city": "Toulouse", 
              "postalCode": "75015", 
              "country": "France", 
              "remarkablePlaces": { 
@@ -578,7 +573,7 @@
          },         
          "shooting": { 
              "adress": "11 rue de Lourmel", 
-             "city": "Paris", 
+             "city": "Grenoble", 
              "postalCode": "75015", 
              "country": "France", 
              "remarkablePlaces": { 
