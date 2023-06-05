@@ -147,3 +147,17 @@ button {
     color: #FFF;
     margin-right: 30px;
 }
+
+.icon-checked {
+    position: absolute;
+    background-color: #a4a7d3;
+    top: 40%;
+    left: 45%;
+    padding: 5px;
+    border-radius: 5px;
+    display: none;
+}
+
+.template-clicked .icon-checked {
+    display: block;
+  }

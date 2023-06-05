@@ -224,16 +224,17 @@ function Template(props) {
         <div className={styles["boxe-template-globale"]}>
           {filteredTemplates.map((template, index) => (
             <div
-              key={index} 
-              className={`${styles["box-template"]} ${clickedTemplates.includes(template.id) ? styles["template-clicked"] : ""}`}
-              onClick={() => handleTemplateClick(template.id)}
-            >
+                key={index} 
+                className={`${styles["box-template"]} ${clickedTemplates.includes(template.id) ? styles["template-clicked"] : ""}`}
+                onClick={() => handleTemplateClick(template.id)}
+              >
               <img src={template.attributes.posterUrl} alt="" className={styles["box-template__image"]} />
               {template.attributes.isNew ? (
                 <span className={styles["box-template__tag-news"]}>News</span>
               ) : (
                 <span></span>
               )}
+              <svg className={styles["icon-checked"]} xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><path d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z"/></svg>
               <div className={styles["box-template__contente"]}>
                 <h4 className={styles["box-template__contente__title-id"]}>{template.id}</h4>
                 {/* <input type="checkbox" /> */}
