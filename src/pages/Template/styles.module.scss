@@ -60,6 +60,8 @@
     }
     &__contente {
         padding: 10px;
+        display: flex;
+        justify-content: space-between;
         &__title-id{
             margin: 0px;
         }
@@ -71,8 +73,12 @@
     }
 }
 
+.template-clicked .box-template__contente__title-id {
+    color: #FFF;
+}
+
 .boxe-navigation {
-    height: 91vh;
+    height: 100vh;
     width: 20%;
     background-color: #c8c8e1;
     // display: flex;
@@ -116,4 +122,28 @@ button {
     display: flex;
     // justify-content: space-around;
     flex-wrap: wrap;
+}
+
+.selected-templates {
+    display: flex;
+    justify-content: space-between;
+
+    &__box-temp-tag {
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+.template-clicked {
+    background-color: #14186A;
+    opacity: 0.5;
+}
+
+.tag-temp {
+    width: fit-content;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #14186A;
+    color: #FFF;
+    margin-right: 30px;
 }

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import styles from './styles.module.scss';
 
 function Template(props) {
@@ -9,6 +9,7 @@ function Template(props) {
   const [selectedNumberOfPeople, setSelectedNumberOfPeople] = useState(null);
   const [selectedGender, setSelectedGender] = useState(null);
   const [selectedAge, setSelectedAge] = useState(null);
+  const [clickedTemplates, setClickedTemplates] = useState([]);
   // const [searchId, setSearchId] = useState("");
 
 
@@ -32,6 +33,15 @@ function Template(props) {
     setSelectedAge(age === selectedAge ? null : age);
   };
 
+  
+  const handleTemplateClick = (template) => {
+    console.log(template);
+    if (clickedTemplates.includes(template)) {
+      setClickedTemplates(clickedTemplates.filter((id) => id !== template));
+    } else {
+      setClickedTemplates([...clickedTemplates, template]);
+    }
+  };
   
 
   //doublon delet
@@ -88,14 +98,15 @@ function Template(props) {
   }
 
 
+
   return (
     <div className={styles["box-parent"]}>
       <nav className={styles["boxe-navigation"]}>
         <h4>Car :</h4>
         <div className={styles["bx-fltr-tbn"]}>
-          {uniqueCars.map((car) => (
+          {uniqueCars.map((car, index) => (
             <button
-              key={car}
+              key={index}
               onClick={() => handleCarClick(car)}
               className={selectedCar === car ? styles["active"] : ""}
             >
@@ -105,9 +116,9 @@ function Template(props) {
         </div>
         <h4>City :</h4>
         <div className={styles["bx-fltr-tbn"]}>
-          {uniqueCities.map((city) => (
+          {uniqueCities.map((city, index) => (
             <button
-              key={city}
+              key={index}
               onClick={() => handleCityClick(city)}
               className={selectedCity === city ? styles["active"] : ""}
             >
@@ -118,9 +129,9 @@ function Template(props) {
         
         <h4>People :</h4>
         <div className={styles["bx-fltr-tbn"]}>
-          {numberOfPeople.map((number) => (
+          {numberOfPeople.map((number, index) => (
               <button
-                key={number}
+                key={index}
                 onClick={() => handleNumberOfPeopleClick(number)}
                 className={selectedNumberOfPeople === number ? styles["active"] : ""}
               >
@@ -131,9 +142,9 @@ function Template(props) {
           
         <h4>Gender :</h4>
         <div className={styles["bx-fltr-tbn"]}>
-          {genders.map((gender) => (
+          {genders.map((gender, index) => (
             <button
-              key={gender}
+              key={index}
               onClick={() => handleGenderClick(gender)}
               className={selectedGender === gender ? styles["active"] : ""}
             >
@@ -144,9 +155,9 @@ function Template(props) {
           
         <h4>Age :</h4>
         <div className={styles["bx-fltr-tbn"]}>
-          {ages.map((age) => (
+          {ages.map((age, index) => (
             <button
-              key={age}
+              key={index}
               onClick={() => handleAgeClick(age)}
               className={selectedAge === age ? styles["active"] : ""}
             >
@@ -211,11 +222,11 @@ function Template(props) {
           )}
         </div>
         <div className={styles["boxe-template-globale"]}>
-          {filteredTemplates.map((template) => (
-            <Link 
-              to={`/template/${template.id}`} 
-              key={template.id} 
-              className={styles["box-template"]}
+          {filteredTemplates.map((template, index) => (
+            <div
+              key={index} 
+              className={`${styles["box-template"]} ${clickedTemplates.includes(template.id) ? styles["template-clicked"] : ""}`}
+              onClick={() => handleTemplateClick(template.id)}
             >
               <img src={template.attributes.posterUrl} alt="" className={styles["box-template__image"]} />
               {template.attributes.isNew ? (
@@ -225,10 +236,30 @@ function Template(props) {
               )}
               <div className={styles["box-template__contente"]}>
                 <h4 className={styles["box-template__contente__title-id"]}>{template.id}</h4>
+                {/* <input type="checkbox" /> */}
               </div>
-            </Link>
+            </div>
           ))}
         </div>
+        <div className={styles["selected-templates"]}>
+            <div className={styles["selected-templates__box-temp-tag"]}>
+            {clickedTemplates.map((template, index) => (
+              <p className={styles["tag-temp"]} key={index}>{template}
+              <span className={styles["close-icon"]} 
+              onClick={() => handleTemplateClick(template)}
+              >
+              &times;
+            </span>
+            </p>
+            ))}
+            </div>
+            {clickedTemplates.length > 0 && (
+              <button >
+                Suivant
+              </button>
+            )}
+        </div>
+          
       </section>
     </div>
   );

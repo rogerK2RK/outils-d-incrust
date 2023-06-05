@@ -126,7 +126,7 @@
              "videoUploadAspectRatio": "16:9" 
          },
          "people":{ 
-             "totalNumberOfPeople": 2, 
+             "totalNumberOfPeople": 1, 
              "model": {
                  "0" : {
                      "id": 12, 
@@ -141,20 +141,6 @@
                      },
                      "isModelVisible": true, 
                      "comment": "Le modèle porte une doudoune voyante" 
-                 },
-                 "1": {
-                     "id": 4, 
-                     "attributes":{ 
-                         "name": "Micheline", 
-                         "age": "18-25 ans", 
-                         "gender": "feminine"
-                     },
-                     "phone": {
-                         "havePhone": false,
-                         "action": "none" 
-                     },
-                     "isModelVisible": true, 
-                     "comment": "Le modèle a une montre Rolex"
                  }
              },
              "driver": {
@@ -323,7 +309,7 @@
              "videoUploadAspectRatio": "16:9" 
          },
          "people":{ 
-             "totalNumberOfPeople": 2, 
+             "totalNumberOfPeople": 3, 
              "model": {
                  "0" : {
                      "id": 12, 
@@ -346,6 +332,21 @@
                          "name": "Micheline", 
                          "age": "18-25 ans", 
                          "gender": "feminine"
+                     },
+                     "phone": {
+                         "havePhone": false,
+                         "action": "none" 
+                     },
+                     "isModelVisible": true, 
+                     "comment": "Le modèle a une montre Rolex"
+                 },
+                 "2":
+                 {
+                     "id": 5, 
+                     "attributes":{ 
+                         "name": "Roger", 
+                         "age": "18-25 ans", 
+                         "gender": "masculine"
                      },
                      "phone": {
                          "havePhone": false,
