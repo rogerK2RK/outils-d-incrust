@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-// import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import styles from './styles.module.scss';
 
 function Template(props) {
@@ -96,6 +96,9 @@ function Template(props) {
       Object.values(template.properties.people.model).some((model) => model.attributes.age === selectedAge)
     );
   }
+
+
+  const nextPagePath = clickedTemplates.length > 0 ? `/template/${clickedTemplates}` : "";
 
 
 
@@ -255,9 +258,9 @@ function Template(props) {
             ))}
             </div>
             {clickedTemplates.length > 0 && (
-              <button >
-                Suivant
-              </button>
+              <Link to={nextPagePath}>
+                <button>Suivant</button>
+              </Link>
             )}
         </div>
           
