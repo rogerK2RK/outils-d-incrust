@@ -25,7 +25,8 @@ function OneTemplate({ templates }) {
       {selectedTemplates.map(template => (
         <div key={template.id}>
           <h4>{template.id}</h4>
-          <span>{template.attributes.previewUrl}</span>
+          <p>{template.attributes.previewUrl}</p>
+          <p>{template.template.lienAEPFile}</p>
           {/* Afficher d'autres détails du modèle */}
         </div>
       ))}

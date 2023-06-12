@@ -16,17 +16,9 @@
            "export": {
                "availableSizes":{
                    "0" :{
-                    "text": "16x9 - horizontal", 
-                    "value": "16x9"
-                   },
-                   "1" :{
                     "text": "1x1 - carré", 
                     "value": "1x1"
-                   }, 
-                   "2" :{
-                    "text": "9x16 - vertical", 
-                    "value": "9x16"
-                   } 
+                   }
                }, 
                "videoUploadAspectRatio": "16:9" 
            },
@@ -201,10 +193,6 @@
               "1" :{
                 "text": "1x1 - carré", 
                 "value": "1x1"
-              }, 
-              "2" :{
-                "text": "9x16 - vertical", 
-                "value": "9x16"
               }
              }, 
              "videoUploadAspectRatio": "16:9" 
@@ -250,7 +238,7 @@
                      "gender": "masculine" 
                  },
                  "isDriverVisible": true, 
-                 "isDriving": true,
+                 "isDriving": false,
                  "comment": "Le chauffeur porte une doudoune voyante et un écouteur"
              }
          },
@@ -364,7 +352,7 @@
                      "gender": "masculine" 
                  },
                  "isDriverVisible": true, 
-                 "isDriving": true,
+                 "isDriving": false,
                  "comment": "Le chauffeur porte une doudoune voyante et un écouteur"
              }
          },
@@ -433,7 +421,7 @@
                          "gender": "masculine" 
                      },
                      "phone": {
-                         "havePhone": true, 
+                         "havePhone": false, 
                          "action": "charging" 
                      },
                      "isModelVisible": true, 
@@ -449,7 +437,7 @@
                      },
                      "phone": {
                          "havePhone": false,
-                         "action": "none" 
+                         "action": "scaning" 
                      },
                      "isModelVisible": true, 
                      "comment": "Le modèle a une montre Rolex"
@@ -559,9 +547,9 @@
                  "attributes":{
                      "name": "Michel", 
                      "age": "25-35 ans", 
-                     "gender": "masculine" 
+                     "gender": "feminine" 
                  },
-                 "isDriverVisible": true, 
+                 "isDriverVisible": false, 
                  "isDriving": true,
                  "comment": "Le chauffeur porte une doudoune voyante et un écouteur"
              }
