@@ -98,7 +98,7 @@
          "created": "2015-05-22T14:56:29.000Z", 
          "updated": "2015-05-22T14:56:28.000Z", 
          "format": "img", 
-         "posterUrl": "assets/img/poster/digicab/02.jpg", 
+         "posterUrl": "/assets/img/poster/digicab/02.jpg", 
          "previewUrl": "assets/img/preview/digicab/02.mp4", 
          "activation": true, 
          "likesCount": 0 
@@ -178,7 +178,7 @@
          "created": "2015-05-22T14:56:29.000Z", 
          "updated": "2015-05-22T14:56:28.000Z", 
          "format": "img", 
-         "posterUrl": "assets/img/poster/digicab/03.jpg", 
+         "posterUrl": "/assets/img/poster/digicab/03.jpg", 
          "previewUrl": "assets/img/preview/digicab/03.mp4", 
          "activation": true, 
          "likesCount": 0 
@@ -273,7 +273,7 @@
          "created": "2015-05-22T14:56:29.000Z", 
          "updated": "2015-05-22T14:56:28.000Z", 
          "format": "img", 
-         "posterUrl": "assets/img/poster/digicab/04.jpg", 
+         "posterUrl": "/assets/img/poster/digicab/04.jpg", 
          "previewUrl": "assets/img/preview/digicab/04.mp4", 
          "activation": true, 
          "likesCount": 0 
@@ -387,7 +387,7 @@
          "created": "2015-05-22T14:56:29.000Z", 
          "updated": "2015-05-22T14:56:28.000Z", 
          "format": "img", 
-         "posterUrl": "assets/img/poster/digicab/04.jpg", 
+         "posterUrl": "/assets/img/poster/digicab/04.jpg", 
          "previewUrl": "assets/img/preview/digicab/05.mp4", 
          "activation": true, 
          "likesCount": 0 
@@ -486,7 +486,7 @@
          "created": "2015-05-22T14:56:29.000Z", 
          "updated": "2015-05-22T14:56:28.000Z", 
          "format": "img", 
-         "posterUrl": "assets/img/poster/digicab/05.jpg", 
+         "posterUrl": "/assets/img/poster/digicab/05.jpg", 
          "previewUrl": "assets/img/preview/digicab/06.mp4", 
          "activation": true, 
          "likesCount": 0 

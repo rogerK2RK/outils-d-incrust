@@ -45,7 +45,7 @@ function OneTemplate({ templates }) {
       ))}
 
       <div className={styles["button-run"]}>
-        <button>Démarer les incrustes</button>
+        <button>Démarer les incrustes<span className={styles["arrow"]}></span></button>
       </div>
     </div>
   );

@@ -13,6 +13,9 @@
     border-radius: 15px;
     border: 1px solid #14186A;
     margin-bottom: 40px;
+    &__image {
+        display: flex;
+    }
 }
 
 .image {
@@ -44,4 +47,12 @@
     color: #FFF;
     font-size: 20px;
     font-weight: 700;
+}
+
+.arrow::after {
+    content: '\2192';
+    margin-left: 5px;
+    font-size: 20px;
+    font-weight: 900;
+    color: #FFF;
 }
