@@ -20,14 +20,27 @@ function OneTemplate({ templates }) {
 
   return (
     <div className={styles["box-parent"]}>
-      <h3>Hello roger</h3>
       {/* Afficher les informations sur les modèles sélectionnés */}
       {selectedTemplates.map(template => (
-        <div key={template.id}>
-          <h4>{template.id}</h4>
-          <p>{template.attributes.previewUrl}</p>
-          <p>{template.template.lienAEPFile}</p>
-          {/* Afficher d'autres détails du modèle */}
+        <div key={template.id} className={styles["temptlate-box"]}>
+          <div className={styles["temptlate-box__image"]}>
+          <img src={template.attributes.posterUrl} alt="" className={styles["image"]} />
+          </div>
+          <div>
+            <h4>{template.id}</h4>
+            <p>{template.attributes.previewUrl}</p>
+            <p>{template.template.lienAEPFile}</p>
+            {Object.values(template.properties.export.availableSizes).map(size => (
+              <button key={size.value}>{size.text}</button>
+            ))}
+          </div>
+          <div className={styles["box-video-import"]}>
+            <label>
+              <input type="file"
+        id="avatar" name="avatar"
+        accept="image/png, image/jpeg video/*"/>
+            </label>
+          </div>
         </div>
       ))}
     </div>

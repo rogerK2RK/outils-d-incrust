@@ -508,7 +508,7 @@ function Template(props) {
                 key={index} 
                 className={`${styles["box-template"]} ${clickedTemplates.includes(template.id) ? styles["template-clicked"] : ""}`}
                 onClick={() => handleTemplateClick(template.id)}
-              >
+              > 
               <img src={template.attributes.posterUrl} alt="" className={styles["box-template__image"]} />
               {template.attributes.isNew ? (
                 <span className={styles["box-template__tag-news"]}>News</span>

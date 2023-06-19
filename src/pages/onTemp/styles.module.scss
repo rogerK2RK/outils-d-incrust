@@ -1,0 +1,30 @@
+.box-parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 40px 0px 0px;
+}
+
+.temptlate-box {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    border-radius: 15px;
+    border: 1px solid #14186A;
+    margin-bottom: 40px;
+}
+
+.image {
+    height: 180px;
+    width: 250px;
+    object-fit: cover;
+    background-color: gray;
+    border-radius: 15px 0px 0px 15px ;
+}
+
+.box-video-import {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
