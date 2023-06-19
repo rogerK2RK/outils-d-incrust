@@ -43,6 +43,10 @@ function OneTemplate({ templates }) {
           </div>
         </div>
       ))}
+
+      <div className={styles["button-run"]}>
+        <button>Démarer les incrustes</button>
+      </div>
     </div>
   );
 }

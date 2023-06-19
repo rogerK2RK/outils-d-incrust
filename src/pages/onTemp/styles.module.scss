@@ -28,3 +28,20 @@
     justify-content: center;
     align-items: center;
 }
+
+.button-run {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button-run button {
+    padding: 10px 30px;
+    border-radius: 5px;
+    border: 1px #14186A solid ;
+    background-color: #14186A;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
